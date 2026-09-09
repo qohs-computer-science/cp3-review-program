@@ -1,4 +1,4 @@
-<h3>07.AT.R - Review Program</h3>
+<h3>Review Program</h3>
 <p>Your program will ask the user for their name, age, favorite 3+ digit number, and GPA  (cumulative, weighted). The program will then print out a set of messages based on the following:  </p>
 <ol>
   <li>The first line of output must include the name of the user and a welcome message.</li>
